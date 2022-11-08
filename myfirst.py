@@ -1,5 +1,5 @@
 import seaborn as sns
-sns.boxplot(data=iris)
+
 import streamlit as st
 import numpy as np
 import pandas as pd
